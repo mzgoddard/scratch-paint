@@ -77,7 +77,7 @@
     "redux-throttle": "0.1.1",
     "regenerator-runtime": "^0.11.1",
     "rimraf": "^2.6.1",
-    "scratch-l10n": "^2.0.0",
+    "scratch-l10n": "http://github.com/mzgoddard/scratch-l10n.git#webpack-4-test",
     "style-loader": "^0.21.0",
     "svg-url-loader": "^2.3.2",
     "tap": "^11.1.0",
