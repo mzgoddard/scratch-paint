@@ -30,7 +30,7 @@
     "minilog": "3.1.0",
     "parse-color": "1.0.0",
     "prop-types": "^15.5.10",
-    "scratch-l10n": "^2.0.0"
+    "scratch-l10n": "github:mzgoddard/scratch-l10n#dependents-no-boiler"
   },
   "peerDependencies": {
     "react": "^16",
